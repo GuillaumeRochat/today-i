@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Today I ..."
+theme = "hugo-nuo"
+
+[[menu.main]]
+    name = "Home"
+    weight = 10
+    identifier = "home"
+    url = "/"
+
+[params]
+    author = "Guillaume Rochat"
+    avatar = "/img/avatar.png"
+    seotitle = "Today I ..."
+    subtitle = "Learned, Read, Thought"
+    description = "Daily logs of things I learned, read, thought about, discussed, etc."
+    paginate = 10
+
+    email = "rochat.guillaume@gmail.com"
+    github = "GuillaumeRochat"
+    linkedin = "guillaume-rochat-36849954"
