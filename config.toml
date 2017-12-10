@@ -2,6 +2,7 @@ baseURL = "https://today-i.netlify.com/"
 languageCode = "en-us"
 title = "Today I ..."
 theme = "hugo-nuo"
+googleAnalytics = "UA-111009904-1"
 
 [[menu.main]]
     name = "Home"
