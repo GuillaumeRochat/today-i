@@ -1,4 +1,4 @@
-baseURL = "https://today-i.netlify.com/"
+baseURL = "http://www.todayi.life/"
 languageCode = "en-us"
 title = "Today I ..."
 theme = "hugo-nuo"
