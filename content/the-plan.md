@@ -11,5 +11,5 @@ title = "The Plan"
 * No analytics 1 1
 * Meditation 1 1
 * Podcast 1 1
-* Book 1
+* Book 1 1
 * Reflect 1 1
