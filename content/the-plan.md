@@ -4,4 +4,12 @@ draft = true
 title = "The Plan"
 
 +++
-
+* No facebook 1
+* No youtube 0
+* No hacker news 1
+* No twitch 1
+* No analytics 1
+* Meditation 1
+* Podcast 1
+* Book 1
+* Reflect 1
