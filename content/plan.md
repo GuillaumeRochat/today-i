@@ -1,10 +1,12 @@
 ---
-date: "2018-01-08T19:56:42+00:00"
-title: "The Plan"
-layout: "about"
-menu: "main"
----
+date: 2018-01-08 19:56:42 +0000
+title: The Plan
+layout: about
+type: page
+menu:
+  main: {}
 
+---
 As I explained in a previous post, I decided to track publicly whether I succeeded in some personal goals. Each column is an objective and I'll mark them with either Y if I succeeded or the full word "Fail" if I failed.
 
 * FB: No browsing Facebook.
@@ -27,3 +29,4 @@ As I explained in a previous post, I decided to track publicly whether I succeed
 | 2018-01-12 | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 | 2018-01-13 | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 | 2018-01-14 | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| 2018-01-15 | Y | Y | Y | Y | Y | Y | Y | Y | Y |
