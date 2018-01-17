@@ -31,3 +31,4 @@ As I explained in a previous post, I decided to track publicly whether I succeed
 | 2018-01-14 | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 | 2018-01-15 | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 | 2018-01-16 | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| 2018-01-17 | Y | Y | Y | Y | Y | Y | Y | Y | Y |
