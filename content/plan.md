@@ -24,24 +24,24 @@ As I explained in a previous post, I decided to track publicly whether I succeed
 
 | Date | FB | YT | HN | TT | GA | M | E | P | C | B | R |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2018-01-08 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-09 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-10 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-11 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-12 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-13 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-14 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-15 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-16 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-17 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-18 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-19 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-20 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
-| 2018-01-21 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
-| 2018-01-22 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
-| 2018-01-23 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
-| 2018-01-24 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
-| 2018-01-25 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
-| 2018-01-26 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
-| 2018-01-27 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 | 2018-01-28 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| 2018-01-27 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| 2018-01-26 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| 2018-01-25 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| 2018-01-24 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| 2018-01-23 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| 2018-01-22 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| 2018-01-21 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| 2018-01-20 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-19 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-18 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-17 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-16 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-15 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-14 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-13 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-12 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-11 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-10 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-09 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
+| 2018-01-08 | Y | Y | Y | Y | Y | Y |   | Y |   | Y | Y |
