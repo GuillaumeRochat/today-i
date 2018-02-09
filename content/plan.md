@@ -25,7 +25,7 @@ As I explained in a previous post, I decided to track publicly whether I succeed
 
 | Date | FB | YT | HN | TT | GA | M | E2 | P | C | B | R |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2018-02-08 | Y | Y | Y | Y | Fail | Y | - | Y | Y | Y | Y |
+| 2018-02-09 | Y | Y | Y | Y | Fail | Y | - | Y | Y | Y | Y |
 | 2018-02-08 | Y | Y | Y | Y | Y | Y | - | Y | Fail | Y | Y |
 | 2018-02-07 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 | 2018-02-06 | Y | Y | Y | Y | Y | Y | - | Y | Y | Y | Y |
