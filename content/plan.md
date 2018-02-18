@@ -22,6 +22,9 @@ As I explained in a previous post, I decided to track publicly whether I succeed
 * B: Read a book for at least 30 minutes.
 * R: Reflect on the day by filling this page.
 
+| Date | FB | YT | HN | TT | GA | M | P | C | B | R |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2018-02-18 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 
 | Date | FB | YT | HN | TT | GA | M | E2 | P | C | B | R |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
