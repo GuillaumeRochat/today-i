@@ -20,7 +20,11 @@ As I explained in a previous post, I decided to track publicly whether I succeed
 * P: Listen to one podcast episode per day.
 * C: Do chores every day for at least 30 minutes.
 * B: Read a book for at least 30 minutes.
+* A: Do the daily accounting.
 * R: Reflect on the day by filling this page.
+| Date | FB | YT | HN | TT | GA | M | P | C | B | A | R |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2018-02-27 | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 
 | Date | FB | YT | HN | TT | GA | M | P | C | B | R |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
