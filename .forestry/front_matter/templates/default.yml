@@ -100,6 +100,7 @@ pages:
 - post/2018-04-07.md
 - post/2018-04-08.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
