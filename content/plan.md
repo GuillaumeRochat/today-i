@@ -25,6 +25,7 @@ As I explained in a previous post, I decided to track publicly whether I succeed
 
 | Date | Running | Climbing | Muscu | Stretching |
 |:-:|:-:|:-:|:-:|:-:|
+| 2018-05-02 | Y | N | N | N |
 | 2018-05-01 | N | N | Y | N |
 | 2018-04-30 | Y | N | N | Y |
 | 2018-04-29 | N | N | Y | N |
