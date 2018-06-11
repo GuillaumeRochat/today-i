@@ -1,5 +1,24 @@
 ---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: text
+  hidden: false
+  default: 
+- type: boolean
+  name: draft
+  label: draft
+  hidden: false
+  default: true
 pages:
+- post/2018-06-11.md
 - post/2018-05-02.md
 - post/2018-05-01.md
 - post/2018-04-30.md
@@ -119,21 +138,3 @@ pages:
 - post/2018-04-06.md
 - post/2018-04-07.md
 - post/2018-04-08.md
-hide_body: false
-is_partial: false
-fields:
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
-- name: date
-  label: Date
-  type: text
-  hidden: false
-  default: 
-- type: boolean
-  name: draft
-  label: draft
-  hidden: false
-  default: true
